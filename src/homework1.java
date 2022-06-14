@@ -1,3 +1,8 @@
+/* Homework1
+Miguel Pereira
+
+The program prompts the user to enter the #of months, weeks, days, hours, minutes, and seconds.
+ */
 import java.util.Scanner;
 
 public class homework1 {
